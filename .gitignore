@@ -1,0 +1,9 @@
+.venv
+
+# Ignore CSV files
+*.csv
+
+# Other ignore rules
+__pycache__/
+*.pyc
+.env
