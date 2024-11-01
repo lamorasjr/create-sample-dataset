@@ -1,7 +1,6 @@
 import pandas as pd
 from faker import Faker
 import random
-import numpy as np
 
 fake = Faker()
 
@@ -87,7 +86,7 @@ def generate_channels():
     return df
 
 
-def generate_sales(df_customers, df_products, number_of_records, start_date='2023-01-01', end_date='2023-12-31'):
+def generate_sales(df_customers, df_products, number_of_records, start_date, end_date):
     fake_table = []
     for record in range(number_of_records):
         fake_table.append(
@@ -108,7 +107,7 @@ if __name__ == '__main__':
     df_customers = generate_customers(5)
     df_products = generate_products(5)
     df_channels = generate_channels()
-    df_sales = generate_sales(df_customers, df_products, 15)
+    df_sales = generate_sales(df_customers, df_products, 15, start_date='2024-01-01', end_date='2024-12-31')
     
 
     print(df_customers.head())
