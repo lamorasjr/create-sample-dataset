@@ -34,7 +34,7 @@ def generate_customers(number_of_records):
                 "Customer_ID": f"C{str(record + 1).zfill(4)}",
                 "Customer_Name": fake.name(),
                 "Email": fake.email(),
-                "Phone": f'{fake.msisdn()[:3]}-{fake.msisdn()[:4]}',
+                "Phone": f'{fake.msisdn()[:2]}-{fake.msisdn()[:3]}-{fake.msisdn()[:4]}',
                 "Address": fake.street_address(),
                 "City": city,
                 "State": state,
@@ -86,7 +86,7 @@ def generate_channels():
     return df
 
 
-def generate_sales(df_customers, df_products, number_of_records, start_date, end_date):
+def generate_sales(df_customers, df_products, df_channels, number_of_records, start_date, end_date):
     fake_table = []
     for record in range(number_of_records):
         fake_table.append(
@@ -95,6 +95,7 @@ def generate_sales(df_customers, df_products, number_of_records, start_date, end
                 "Order_Date": random.choice(pd.date_range(start=start_date, end=end_date, freq='ME')),
                 "Customer_ID": random.choice(df_customers['Customer_ID']),
                 "Product_ID": random.choice(df_products['Product_ID']),
+                "Channel_ID": random.choice(df_channels['Channel_ID']),
                 "Quantity_Sold": random.randint(1, 10),
                 "Discount_Percentage": round(random.uniform(0, 30), 2)
             }
