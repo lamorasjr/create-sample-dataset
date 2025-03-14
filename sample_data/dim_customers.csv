@@ -1,0 +1,101 @@
+Customer_ID,Customer_Name,Email,Phone,Address,Customer_Segment
+C0001,Candice Harrell,nguyensandra@example.org,28-629-2176,224 Paul Road,Premium
+C0002,James Benitez,victoria20@example.net,29-856-4323,4103 John Walks,Standard
+C0003,Gregory Wilson,alexandrahall@example.net,98-522-4003,2099 Gibson Mountain Apt. 842,Premium
+C0004,Lucas Young,stephanie26@example.com,83-541-1388,33183 Michelle Run,Premium
+C0005,Jenny Hayden,seanbrown@example.org,34-572-7217,20673 Mckee Drive Suite 845,Premium
+C0006,Tina Garcia,zimmermanwilliam@example.org,32-220-8032,96520 Michael Village,Standard
+C0007,Jon Finley,laurie04@example.org,57-641-5879,521 Kelli Stravenue Apt. 612,Standard
+C0008,William Taylor,whitneynelson@example.net,47-169-0607,931 Heather Street Apt. 971,Standard
+C0009,Travis Phillips,michele65@example.org,34-733-8002,99588 Kiara Court,Premium
+C0010,Sandra Caldwell,johnstonamanda@example.org,49-243-6245,36261 Patricia Plains Suite 381,Standard
+C0011,Jennifer Garcia,diane50@example.net,88-486-0696,673 Mccormick Bypass Apt. 591,Premium
+C0012,Jon Lutz,dawnallen@example.org,87-801-8135,5752 Rhonda Avenue,Standard
+C0013,John Taylor,vcoffey@example.com,30-316-8913,544 Ricky Prairie Apt. 733,Premium
+C0014,Brett Chambers Jr.,bholt@example.org,42-658-7479,149 Ryan Villages Apt. 540,Premium
+C0015,Alexandra Cooper,lharris@example.net,11-459-8230,79159 Monica View,Standard
+C0016,Leslie Jacobs,danielstevens@example.org,22-801-7693,027 Frank Island Apt. 518,Premium
+C0017,Michael Cox,johngraham@example.org,31-980-3114,5757 Michael Throughway Apt. 620,Premium
+C0018,David Myers,yvonne00@example.net,77-002-9599,085 Owens Vista,Standard
+C0019,Sarah Horn,rmontoya@example.net,00-887-6444,53951 Williams Crossing,Standard
+C0020,Amanda Elliott,richardtaylor@example.net,50-873-7604,430 Atkins Ramp Suite 096,Standard
+C0021,Manuel Moss,nancysmith@example.org,90-106-0833,714 Turner Land,Premium
+C0022,Melissa Ward,msalazar@example.org,19-501-0345,8400 Campbell Isle,Standard
+C0023,Jade Brown,dsosa@example.net,13-124-6046,558 Adams Parkways Suite 313,Premium
+C0024,James Perkins,xhayes@example.net,88-718-9202,8657 Rita Walk Suite 099,Standard
+C0025,Alexandra Levy,iestrada@example.org,48-686-2855,523 Sanders Forest Suite 071,Standard
+C0026,Seth Brown,duncantami@example.org,14-514-6066,11566 Chapman Glen,Standard
+C0027,Tiffany Brandt,riveradeborah@example.net,50-269-6616,261 Luis Springs,Standard
+C0028,Taylor West,uhaley@example.org,79-800-8444,305 Kelly Turnpike,Standard
+C0029,Stacy Schultz,walshsandra@example.net,67-298-2969,69260 Hess Manor Apt. 099,Premium
+C0030,Wayne Castillo,daniel27@example.net,44-110-9370,3094 French Station,Premium
+C0031,Katie Brown,xholmes@example.org,83-664-9449,440 Wright Light Suite 945,Premium
+C0032,Keith Knight,qrodriguez@example.net,64-890-5218,430 Christina Mount,Standard
+C0033,Evan Richards,joshuamiller@example.com,03-477-2345,321 Donna Mountain Apt. 838,Premium
+C0034,William Foster,brewerandrew@example.com,48-955-9538,83946 Taylor Lodge,Standard
+C0035,Tara Dickson,christopher23@example.com,76-510-3213,3275 Julia Views,Premium
+C0036,Derek Mccarthy,underwoodveronica@example.net,44-737-0641,739 Shannon Motorway,Premium
+C0037,Harry Garner,kylehuerta@example.com,93-338-7356,261 Alexander Flat,Standard
+C0038,Brian Farrell,todd42@example.com,00-710-3733,071 Sean Plaza,Standard
+C0039,Carol Foster,qhansen@example.net,89-821-0760,6113 Dennis Point,Standard
+C0040,Julia Montgomery MD,gmartinez@example.com,66-385-7128,25400 Steven Fords Apt. 696,Premium
+C0041,Katherine Williams,ccoleman@example.com,07-176-6594,309 Melissa Shore Suite 341,Premium
+C0042,Tanya Brown,ytaylor@example.com,75-845-0570,0843 Anna Fields,Premium
+C0043,Angel Price,brownjoshua@example.org,49-487-1266,4283 Richards Garden,Standard
+C0044,Tracy Coleman,tsmith@example.org,28-415-5272,84184 Warner Springs Suite 494,Premium
+C0045,Hannah Nelson,keithrodriguez@example.net,12-855-1919,437 Samuel Underpass Suite 384,Premium
+C0046,Anthony Klein,ukidd@example.com,51-783-8147,985 Gonzalez Greens,Premium
+C0047,Dr. John Smith,bakerlarry@example.org,50-919-8414,26235 Molly Wall,Standard
+C0048,Christopher Luna,marcushebert@example.com,09-702-2753,0184 Brenda Road Suite 516,Premium
+C0049,Adam Miller,ruth56@example.net,56-054-2408,225 Joseph Curve,Premium
+C0050,Larry Woods,deangeorge@example.com,76-109-4370,5359 Amber Hills,Standard
+C0051,Melissa Johnson,noahlewis@example.net,57-533-8213,6880 Houston Ramp Suite 351,Standard
+C0052,Christine Castillo,jeremy86@example.net,41-009-1983,5721 Miller Haven Suite 537,Premium
+C0053,Jordan Diaz,nkidd@example.org,77-042-3804,18004 Christopher Harbors Apt. 841,Standard
+C0054,Whitney Love,mcdonaldmark@example.org,40-113-4773,536 Elizabeth Road Apt. 693,Standard
+C0055,Diane Parrish,ellenreilly@example.org,83-074-5862,555 Julie Grove Suite 598,Premium
+C0056,Danielle Patel,ymercer@example.com,88-869-4502,98667 Cohen Underpass,Standard
+C0057,Derrick White,bbowman@example.com,59-351-1038,2071 Ray Crescent,Premium
+C0058,Trevor Henry,kristen16@example.com,17-273-2123,92097 Leslie Parks,Premium
+C0059,Mary Robinson,obest@example.com,86-923-6166,7495 Phelps Valley Apt. 825,Standard
+C0060,Lisa Chaney,laurareed@example.com,20-597-0486,0931 Houston Plain Apt. 394,Premium
+C0061,Amy Roberts,tracygarcia@example.org,89-099-8842,431 Murray Center Apt. 684,Premium
+C0062,Amy Smith,hernandezdale@example.net,53-864-0046,594 Larry Path,Premium
+C0063,Thomas Morales,chelsea83@example.org,81-271-2805,0243 Roberts Greens,Premium
+C0064,Mark Lewis,kgross@example.net,76-879-7178,0753 Sanchez Pike,Premium
+C0065,Tyler Vaughn,ksteele@example.com,46-533-5521,063 Cisneros Courts,Premium
+C0066,James Austin,bryanterik@example.com,38-319-3352,176 Kelly Path Suite 573,Standard
+C0067,Hannah Nguyen,johnsonsandra@example.net,42-891-4639,79355 Mcgee Spur,Standard
+C0068,Sean Garcia,durhamjohn@example.com,51-111-9932,1579 Charles Point Apt. 312,Standard
+C0069,Allison Castro,richard46@example.net,69-442-7205,153 Herrera Village Suite 668,Standard
+C0070,Gary Valencia,nancy31@example.com,82-248-8807,17275 Sherry Run,Standard
+C0071,Daniel Payne,murraydaniel@example.com,71-799-7522,351 Wright Walk Suite 738,Premium
+C0072,William Thompson,kayla13@example.org,36-622-6928,8856 Scott Ways,Standard
+C0073,Lisa Jones,katherine10@example.org,03-836-2601,9975 Brooks Camp,Premium
+C0074,Cody Klein,courtneymiranda@example.com,50-746-8578,8273 Alexander Roads Apt. 982,Standard
+C0075,David White,shill@example.org,96-035-5670,692 Zachary Via,Premium
+C0076,Christine King,sspence@example.org,70-704-2578,658 Wilson Tunnel,Premium
+C0077,Jeremy Dixon,christopherward@example.org,10-054-6661,211 David Flats Suite 573,Standard
+C0078,Susan Martinez,stephaniemarks@example.com,37-374-7227,6152 Bennett Loaf Apt. 078,Premium
+C0079,Craig Pace,elizabeth23@example.org,08-163-1399,346 Hamilton Dam,Standard
+C0080,Bobby Weaver,nathaniel80@example.org,89-592-6901,649 Carla Loop Apt. 009,Standard
+C0081,Roy Sanchez,brettsilva@example.com,36-081-0405,250 Evans Street Apt. 903,Premium
+C0082,Ryan Perry,patricia35@example.net,29-128-6113,2556 Nguyen Court Apt. 799,Premium
+C0083,Ian Thomas,ihamilton@example.net,05-088-3363,8289 Hess Viaduct,Standard
+C0084,George Ross,sandra72@example.org,60-451-6084,92311 Pamela Keys Suite 116,Premium
+C0085,Denise Miller,shawnjohnston@example.com,51-004-6232,6867 Rebecca Mission,Standard
+C0086,William King,dwalters@example.com,60-528-4537,31012 Mark Divide Suite 964,Premium
+C0087,Carolyn Moore,wmcdaniel@example.com,37-429-4322,568 Susan Dam Apt. 580,Premium
+C0088,Alan Ramirez,wbrooks@example.com,33-062-7629,841 Stephanie Well,Standard
+C0089,James Collins,theresagonzalez@example.net,01-288-0800,60590 Ariana Drive Apt. 660,Premium
+C0090,Karen Jackson,campbelljohn@example.com,47-930-9045,9627 Clark Throughway Suite 549,Standard
+C0091,Matthew Thomas,nvega@example.com,27-780-9176,38285 Patrick Mountains,Standard
+C0092,Benjamin Ochoa,cookjoshua@example.com,39-300-0466,55900 Robert Valley,Premium
+C0093,Adriana Martin,wilsondouglas@example.org,90-638-8650,590 Rebecca Inlet,Premium
+C0094,Mark Hall,emilyhumphrey@example.net,78-939-4015,66899 Harris Rue Apt. 188,Standard
+C0095,Stephanie Preston,gwilliams@example.org,77-347-4367,695 Davis Drive Suite 877,Premium
+C0096,Tyrone Roberts,meredith66@example.org,99-081-0420,098 Maxwell Spur Apt. 155,Standard
+C0097,Eric Estrada,valerie23@example.net,83-209-9173,3935 Williams Pines,Standard
+C0098,Anna Haynes,kari21@example.com,36-511-5413,8404 Smith River Suite 597,Standard
+C0099,Eric Kennedy,martinkevin@example.net,99-264-1781,56684 Patterson Corner Suite 804,Standard
+C0100,Terry Horne,jonathan13@example.com,82-449-1808,30023 Jackson Crest,Standard
